@@ -46,7 +46,7 @@ const App = () => {
             <Route path="/billshow" element={<PaymentDetails  />} />
             <Route path="/readerHome" element={< Reader />} />
 
-            />
+            <Route path="/addMeaterData" element={< AddMeter />} />
 
 
           </Routes>
