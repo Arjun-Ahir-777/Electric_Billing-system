@@ -1,0 +1,11 @@
+/* BillPage.css */
+.bill-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+
+.bill-table th {
+    background-color: #f2f2f2;
+}
